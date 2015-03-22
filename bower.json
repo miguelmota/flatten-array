@@ -1,5 +1,5 @@
 {
-  "name": "flattenarray",
+  "name": "flatten-array",
   "main": "flatten.js",
   "version": "0.0.1",
   "homepage": "https://github.com/miguelmota/flatten",

@@ -1,5 +1,5 @@
 {
-  "name": "flatten-array",
+  "name": "flattenarray",
   "version": "0.0.1",
   "description": "Recursively flatten an array.",
   "main": "flatten.js",
