@@ -5,7 +5,7 @@ Recursively flatten an array.
 # Install
 
 ```bash
-npm install flatten-array
+npm install flattenarray
 ```
 
 ```bash
