@@ -1,0 +1,30 @@
+{
+  "name": "flatten",
+  "version": "0.0.1",
+  "description": "Recursively flatten an array.",
+  "main": "flatten.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/flatten"
+  },
+  "keywords": [
+    "flatten",
+    "array",
+    "recursion"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/flatten/issues"
+  },
+  "homepage": "https://github.com/miguelmota/flatten",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
